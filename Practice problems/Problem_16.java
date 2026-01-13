@@ -11,8 +11,5 @@ public class Problem_16{
 
         System.out.println("The maximum number of possible handshakes is " + handshakes);
 
-        scanner.close();
-    }
-
-    
+    }    
 }
