@@ -5,16 +5,16 @@ public class Problem_7{
         Scanner in = new Scanner(System.in);
 
         System.out.print("Enter a: ");
-        double a = in.nextDouble();
+        int a = in.nextInt();
         System.out.print("Enter b: ");
-        double b = in.nextDouble();
+        int b = in.nextInt();
         System.out.print("Enter c: ");
-        double c = in.nextDouble();
-        double result1 = a + b * c;
-        double result2 = a * b + c;
-        double result3 = c + a / b;
-        double result4 = a % b + c;
-        System.out.println("The results of Double Operations are:");
+        int c = in.nextInt();
+        int result1 = a + b * c;
+        int result2 = a * b + c;
+        int result3 = c + a / b;
+        int result4 = a % b + c;
+        System.out.println("The results of int Operations are:");
         System.out.println(result1 + ", " + result2 + ", " + result3 + ", and " + result4);
 
     }
