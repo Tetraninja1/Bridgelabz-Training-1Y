@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3b2ee9f-559c-4967-9e3b-0a9af8b397a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <McpServerCommand sourceId="UserConfigurationSource">
+      <option name="allowedToolsNames" />
+      <option name="enabled" value="true" />
+      <option name="name" value="" />
+      <option name="programPath" value="" />
+      <option name="arguments" value="" />
+      <option name="workingDirectory" value="" />
+      <envs />
+    </McpServerCommand>
+    <McpServerCommand sourceId="UserConfigurationSource">
+      <option name="allowedToolsNames" />
+      <option name="enabled" value="true" />
+      <option name="name" value="" />
+      <option name="programPath" value="" />
+      <option name="arguments" value="" />
+      <option name="workingDirectory" value="" />
+      <envs />
+    </McpServerCommand>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="38N4U7g9L4Djfitp3p0093zIXvq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbundantNum.executor": "Run",
+    "Application.Add_Two_Numbers.executor": "Run",
+    "Application.ArmstrongNum.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CheckNumber.executor": "Run",
+    "Application.CoundownUsingFor.executor": "Run",
+    "Application.CountNumber.executor": "Run",
+    "Application.Countdown.executor": "Run",
+    "Application.DayOfWeek.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Factorial1.executor": "Run",
+    "Application.FactorialFor.executor": "Run",
+    "Application.FactorialUsingWhile.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.Grade.executor": "Run",
+    "Application.GreatestFactor.executor": "Run",
+    "Application.GreatestFactorWhile.executor": "Run",
+    "Application.HarshadNumber.executor": "Run",
+    "Application.LargestNumber.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.MultiplesBelowHundred.executor": "Run",
+    "Application.MultiplesBelowHundredWhile.executor": "Run",
+    "Application.Multiplication.executor": "Run",
+    "Application.OddEven.executor": "Run",
+    "Application.PowerOfNum.executor": "Run",
+    "Application.PowerOfNumberWhile.executor": "Run",
+    "Application.PrimeNum.executor": "Run",
+    "Application.Problem_17.executor": "Run",
+    "Application.Problem_18.executor": "Run",
+    "Application.Problem_19.executor": "Run",
+    "Application.Problem_21.executor": "Run",
+    "Application.Problem_22.executor": "Run",
+    "Application.Problem_23.executor": "Run",
+    "Application.Problem_24.executor": "Run",
+    "Application.Problem_9.executor": "Run",
+    "Application.RewriteFizzBuzz.executor": "Run",
+    "Application.RewriteLeapYear.executor": "Run",
+    "Application.Season.executor": "Run",
+    "Application.SmallestNumber.executor": "Run",
+    "Application.SumOfNaturalNum.executor": "Run",
+    "Application.SumOfNaturalNumber.executor": "Run",
+    "Application.SumOfNaturalUsingWhile.executor": "Run",
+    "Application.SumUntilNeg.executor": "Run",
+    "Application.SumUntilZero.executor": "Run",
+    "Application.Voting.executor": "Run",
+    "Application.YearOfService.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "arrays",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shrey/Code/java code/Basic-programs",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3b2ee9f-559c-4967-9e3b-0a9af8b397a1" name="Changes" comment="" />
+      <created>1768626709819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768626709819</updated>
+      <workItem from="1768626712090" duration="101000" />
+      <workItem from="1768976348106" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
