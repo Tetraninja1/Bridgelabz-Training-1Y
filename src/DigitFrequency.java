@@ -9,7 +9,6 @@ public class DigitFrequency {
             System.out.println("Digit 0 occurs 1 time");
             return;
         }
-
         int temp = number;
         int count = 0;
         while (temp != 0) {
