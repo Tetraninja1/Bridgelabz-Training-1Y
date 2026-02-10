@@ -35,6 +35,5 @@ public class StringCompare {
                     System.out.println("Results are DIFFERENT.");
                 }
 
-                sc.close();
             }
         }
