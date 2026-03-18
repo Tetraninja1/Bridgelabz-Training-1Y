@@ -1,6 +1,6 @@
-package Com.gla;
+package com.gla;
 
-public class Faculty extends Person{
+public class Faculty extends Com.gla.Person {
     private String subject;
 
 }
