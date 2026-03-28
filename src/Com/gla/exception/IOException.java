@@ -1,6 +1,6 @@
 package com.gla.exception;
 
-public class IOException {
+public class IOException extends Throwable {
     public static void main() {
         try{
             System.out.println("main");
