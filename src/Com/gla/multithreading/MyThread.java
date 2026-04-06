@@ -1,4 +1,4 @@
-package com.gla.multithreading;
+package Com.gla.multithreading;
 class MyThread extends Thread{
     @Override
     public void run() {
